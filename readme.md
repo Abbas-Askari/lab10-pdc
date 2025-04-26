@@ -1,5 +1,5 @@
 # S. M. Abbas Askari
-- Lab 10
+- Lab 11
 - CMS: 420209
 
 A modern, responsive bibliographic search interface built with React and TypeScript. BibliSearch provides an intuitive way to search and filter through academic publications, articles, and books.
